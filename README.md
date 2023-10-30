@@ -29,10 +29,10 @@ Resolução de exercícios de juiz online referente ao conteúdo de algoritmos a
 ![Exercicio 2]()
 
 ### Exercício 3
-![Exercicio 1]()
+![Exercicio 1](https://i.imgur.com/VuB8TBD.png)
 
 ### Exercício 4
-![Exercicio 2]()
+![Exercicio 2](https://i.imgur.com/nGF0UjD.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
