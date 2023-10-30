@@ -1,0 +1,25 @@
+
+
+"""class Node:
+    def __init__(self, freq,data):
+        self.freq= freq
+        self.data=data
+        self.left = None
+        self.right = None
+"""        
+
+def decodeHuff(root, s):
+ 
+    temp = root 
+    result = []
+    
+    for char in s:
+        if char is '0':
+            temp = temp.left
+        else:
+            temp = temp.right
+        if temp.left is None and temp.right is None:
+            result.append(temp.data)
+            temp = root
+    
+    print("".join(result))
