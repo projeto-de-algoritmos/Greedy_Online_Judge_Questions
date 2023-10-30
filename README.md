@@ -17,9 +17,9 @@ Resolução de exercícios de juiz online referente ao conteúdo de algoritmos a
 
 #### Exercício 2: 
 
-#### Exercício 3: 
+#### Exercício 3: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem 
 
-#### Exercício 4: 
+#### Exercício 4: https://www.hackerrank.com/challenges/unbounded-knapsack/problem
 
 ## Soluções/Submissões
 ### Exercício 1
