@@ -15,7 +15,7 @@ Resolução de exercícios de juiz online referente ao conteúdo de algoritmos a
 
 #### Exercício 1: https://leetcode.com/problems/task-scheduler/
 
-#### Exercício 2: 
+#### Exercício 2: https://leetcode.com/problems/course-schedule-iii/
 
 #### Exercício 3: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem 
 
