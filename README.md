@@ -23,10 +23,12 @@ Resolução de exercícios de juiz online referente ao conteúdo de algoritmos a
 
 ## Soluções/Submissões
 ### Exercício 1
-![Exercicio 1]()
+![Exercicio 1](./enunciados/enunciado1.png)
+![Submissao 1](./enunciados/submissao1.png)
 
 ### Exercício 2
-![Exercicio 2]()
+![Exercicio 2](./enunciados/enunciado2.png)
+![Submissao 2](./enunciados/submissao2.png)
 
 ### Exercício 3
 ![Exercicio 1](https://i.imgur.com/VuB8TBD.png)
