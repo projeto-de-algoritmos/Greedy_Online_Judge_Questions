@@ -31,7 +31,7 @@ Resolução de exercícios de juiz online referente ao conteúdo de algoritmos a
 ![Submissao 2](./enunciados/submissao2.png)
 
 ### Exercício 3
-![Exercicio 1](https://i.imgur.com/VuB8TBD.png)
+![Exercicio 2](https://i.imgur.com/nGF0UjD.png)
 
 
 
