@@ -19,7 +19,7 @@ Resolução de exercícios de juiz online referente ao conteúdo de algoritmos a
 
 #### Exercício 3: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem 
 
-
+#### Exercício 4: https://leetcode.com/problems/partition-labels/description/
 
 ## Soluções/Submissões
 ### Exercício 1
@@ -33,7 +33,9 @@ Resolução de exercícios de juiz online referente ao conteúdo de algoritmos a
 ### Exercício 3
 ![Exercicio 2](https://i.imgur.com/nGF0UjD.png)
 
-
+### Exercício 4
+![Exercicio 2](https://i.imgur.com/qRxcEfb.png)
+![Exercicio 2](https://i.imgur.com/9n06BXl.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
